@@ -1,0 +1,23 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+httpx
+pydantic
+sqlmodel
+asyncpg
+pgvector
+python-jose[cryptography]
+python-multipart
+passlib[bcrypt]
+# Core AI libs
+langchain-core
+langchain-openai
+langgraph
+langgraph-checkpoint-postgres
+psycopg-pool
+aiosqlite
+langgraph-checkpoint-sqlite
+apscheduler
+openai
+vercel
