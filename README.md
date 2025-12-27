@@ -12,6 +12,8 @@ The traditional web application model relies on static dashboards, endless forms
 *   **No Dashboard**: Instead of navigating complex menus, the UI is ephemeral and context-aware. The agent "generates" the necessary UI components (Generative UI) right in the chat stream when they are needed.
 *   **Conversational + Visual**: Text is great, but rich interactions require rich UI. This boilerplate seamlessly blends natural language processing with interactive React components.
 
+![Conversation Example](assets/conversation.png)
+
 This repository serves as a **production-ready foundation** for building such applications, combining the best-in-class tools for AI orchestration and reactive frontend development.
 
 ---
